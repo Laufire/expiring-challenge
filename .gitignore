@@ -1,0 +1,12 @@
+# Ingnores
+## General
+.*
+!.git*
+
+## Stack
+node_modules
+
+# Excludes
+
+## Dev
+!.editorconfig

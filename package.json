@@ -1,0 +1,29 @@
+{
+  "name": "expiring-challenge",
+  "version": "0.0.1",
+  "description": "A library to generate, send and verify expiring challenges, like OTPs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laufire/expiring-challenge.git"
+  },
+  "keywords": [
+    "library",
+    "generate",
+    "send",
+    "verify",
+    "expiring",
+    "challenge",
+    "OTP",
+    "SMS"
+  ],
+  "author": "laufire technologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laufire/expiring-challenge/issues"
+  },
+  "homepage": "https://github.com/Laufire/expiring-challenge#readme"
+}
