@@ -1,4 +1,4 @@
-const expiringChallenge = require('../..');
+const expiringChallenge = require('../../src');
 const awsSMSHelper = require('aws-sms-helper');
 
 /* Data */

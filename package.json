@@ -2,7 +2,7 @@
   "name": "expiring-challenge",
   "version": "0.0.1",
   "description": "A library to generate, send and verify expiring challenges, like OTPs.",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
